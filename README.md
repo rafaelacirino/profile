@@ -18,6 +18,6 @@ As a Computer Engineering student, my focus nowadays is on Data Analysis and Mac
 
 ### Projetos em Data Science
 
-* **Análise de Dados de Madrid no Airbnb:** 
+* **Análise de Dados de Madrid no Airbnb:** https://bit.ly/2ND6nst
 
 ---

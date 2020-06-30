@@ -7,7 +7,7 @@
 
 <p align="justify"> I graduated in Law at the State University of Paraiba – UEPB and I am currently studying a Bachelor degree in Computer Engineering at the Federal Institute of Paraiba – IFPB, both in Campina Grande-PB, Brazil, with almost a decade in the Legal area as a Consultant and Lawyer, but always immersed in the field of technology.
 
-  Presently I am a graduate student at the Specialization of Analytics and Business Intelligence at Pontifical Catholic University of Minas Gerais – PUC-MG, Brazil. 
+  Presently I am a graduate student at the Specialization of Analytics and Business Intelligence at Pontifical Catholic University of Minas Gerais – PUCMG, Brazil. 
 As a Computer Engineering student, my focus nowadays is on Data Analysis and Machine Learning. 
 
   I am an enthusiast learner of all areas of the computer field and I am also fond of learning new languages and new cultures. I can speak with ease Portuguese, Spanish, English, and I can read some French. I just started studying Korean and German, as a new challenge.</p>

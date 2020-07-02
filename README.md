@@ -10,7 +10,7 @@
   Presently I am a graduate student at the Specialization of Analytics and Business Intelligence at Pontifical Catholic University of Minas Gerais – PUCMG, Brazil. 
 As a Computer Engineering student, my focus nowadays is on Data Analysis and Machine Learning. 
 
-  I am an enthusiast learner of all areas of the computer field and I am also fond of learning new languages and new cultures. I can speak with ease Portuguese, Spanish, English, and I can read some French. I just started studying Korean and German, as a new challenge.</p>
+  I am an enthusiast learner of all areas of the computer field and I am also fond of learning new languages and new cultures. I can speak with ease Portuguese, Spanish, English, and I can read some French.</p>
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/rafaela-b-7a11b1190/)

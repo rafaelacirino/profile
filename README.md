@@ -13,7 +13,7 @@ As a Computer Engineering student, my focus nowadays is on Data Analysis and Mac
   I am an enthusiast learner of all areas of the computer field and I am also fond of learning new languages and new cultures. I can speak with ease Portuguese, Spanish, English, and I can read some French.</p>
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/rafaela-b-7a11b1190/)
+* [LinkedIn](https://www.linkedin.com/in/rafaelacirino/)
 * [Medium](https://medium.com/@rafaelaborbaf)
 
 
